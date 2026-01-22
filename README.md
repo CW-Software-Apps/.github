@@ -1,7 +1,5 @@
 <div align="center">
 
-![CW Software Banner](./assets/cw_software_banner.png)
-
 ![CW Software Logo](./assets/CWSoftwareLogoFull.png)
 
 # 🚀 CW Software - Soluções Digitais
