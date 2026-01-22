@@ -1,7 +1,5 @@
 <div align="center">
 
-![CW Software Banner](../assets/cw_software_banner.png)
-
 ![CW Software Logo](../assets/CWSoftwareLogoFull.png)
 
 # 🚀 CW Software - Soluções Digitais
@@ -65,7 +63,7 @@ A **CW Software** é uma empresa de desenvolvimento de software especializada em
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🌟 Projetos Open Source em Destaque
 
 ### 📱 Papiro - Native HTML to PDF for .NET MAUI
 
@@ -113,56 +111,6 @@ Scanner de **Bluetooth Low Energy (BLE)** multiplataforma construído com .NET M
 **Stack:** .NET MAUI • Shiny Framework • Bluetooth LE
 
 🔗 **[Ver Repositório](https://github.com/wagenheimer/MAUIBleScanner)**
-
----
-
-### 🌐 CW Software Website
-
-[![Website](https://img.shields.io/badge/🌐_Ver_Site-cwsoftware.com.br-blue?style=for-the-badge)](https://cwsoftware.com.br)
-[![Repo](https://img.shields.io/badge/GitHub-CWSoftwareWebSite-181717?style=for-the-badge&logo=github)](https://github.com/CW-Software-Apps/CWSoftwareWebSite)
-
-Website corporativo moderno desenvolvido com **Blazor Server** (.NET 10) e **Tailwind CSS**.
-
-**Características:**
-
-- ✨ Dark theme com gradientes e efeitos glassmorphism
-- 🚀 PWA (Progressive Web App) - Instalável como app nativo
-- 📱 100% Responsivo (mobile-first)
-- 🔍 SEO otimizado (meta tags, Open Graph, Schema.org, sitemap)
-- 🎨 Animações AOS (Animate on Scroll)
-- ⚡ Performance otimizada com Redis caching
-
-**Stack:** Blazor Server • ASP.NET Core • Tailwind CSS • Redis • Docker
-
-🔗 **[Ver Site ao Vivo](https://cwsoftware.com.br)** | 📂 **[Repositório](https://github.com/CW-Software-Apps/CWSoftwareWebSite)**
-
----
-
-## 🤝 Parceiros de Game Development
-
-Colaboramos com estúdios de jogos renomados para criar experiências incríveis:
-
-<div align="center">
-
-### Green Sauce Games
-
-[![Green Sauce Games](../assets/logo_greensaucegames.png)](https://greensaucegames.com)
-
-Estúdio de jogos independente especializado em experiências 2D únicas.
-
-🔗 [greensaucegames.com](https://greensaucegames.com)
-
----
-
-### Seven Sails Games
-
-[![Seven Sails](../assets/sevensails.png)](https://www.sevensails.com.br)
-
-Desenvolvimento de jogos mobile e multiplataforma.
-
-🔗 [sevensails.com.br](https://www.sevensails.com.br)
-
-</div>
 
 ---
 
